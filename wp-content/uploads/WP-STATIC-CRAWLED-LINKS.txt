@@ -4,6 +4,10 @@
 /category/non-classe/page/1
 /page-d-exemple/
 /sitemap.xml
+/wordpress/
+/wordpress/2021/
+/wordpress/2021/06/
+/wordpress/2021/06/13/
 /wordpress/2021/06/13/bonjour-tout-le-monde/
 /wordpress/page-d-exemple/
 /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css
@@ -91,13 +95,9 @@
 /wp-content/uploads\static-html-output\wp-includes\js\wp-util.min.js
 /wp-content/uploads\static-html-output\wp-includes\js\zxcvbn-async.min.js
 /2021/06/
-/2021/06/13/bonjour-tout-le-monde/feed/
 /author/admin/
-/category/non-classe/feed/
 /comments/feed/
 /feed/
-/page-d-exemple/feed/
-/wp-admin/
 /wp-content/themes/twentytwenty/assets/js/index.js
 /wp-content/themes/twentytwenty/print.css
 /wp-content/themes/twentytwenty/style.css

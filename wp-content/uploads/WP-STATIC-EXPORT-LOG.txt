@@ -1,4 +1,4 @@
-2021-06-18 08:40:59
+2021-06-18 09:50:56
 PHP VERSION 7.4.9
 OS VERSION Windows NT DESKTOP-7SRR034 10.0 build 19041 (Windows 10) AMD64
 WP VERSION 5.7.2
@@ -154,27 +154,11 @@ Adding discovered URL: /category/non-classe/
 Adding discovered URL: /2021/06/13/bonjour-tout-le-monde/
 Adding discovered URL: /author/admin/
 Adding discovered URL: /2021/06/
-SAVING / to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/index.html
+SAVING / to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /2021/06/13/bonjour-tout-le-monde/
-Adding discovered URL: /feed/
-Adding discovered URL: /comments/feed/
-Adding discovered URL: /2021/06/13/bonjour-tout-le-monde/feed/
-Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
-Adding discovered URL: /wp-content/themes/twentytwenty/style.css
-Adding discovered URL: /wp-content/themes/twentytwenty/print.css
-Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
-Adding discovered URL: /wp-json/
-Adding discovered URL: /wp-json/wp/v2/posts/1
-Adding discovered URL: /2021/06/13/bonjour-tout-le-monde/
-Adding discovered URL: /
-Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: /page-d-exemple/
-Adding discovered URL: /category/non-classe/
-Adding discovered URL: /author/admin/
-Adding discovered URL: /2021/06/
-SAVING /2021/06/13/bonjour-tout-le-monde/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/2021/06/13/bonjour-tout-le-monde/index.html
+SAVING /2021/06/13/bonjour-tout-le-monde/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/2021/06/13/bonjour-tout-le-monde/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /articles/page/1
@@ -182,41 +166,11 @@ BAD RESPONSE STATUS (404): /articles/page/1
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /category/non-classe/
-Adding discovered URL: /feed/
-Adding discovered URL: /comments/feed/
-Adding discovered URL: /category/non-classe/feed/
-Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
-Adding discovered URL: /wp-content/themes/twentytwenty/style.css
-Adding discovered URL: /wp-content/themes/twentytwenty/print.css
-Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
-Adding discovered URL: /wp-json/
-Adding discovered URL: /wp-json/wp/v2/categories/1
-Adding discovered URL: /
-Adding discovered URL: /page-d-exemple/
-Adding discovered URL: /category/non-classe/
-Adding discovered URL: /2021/06/13/bonjour-tout-le-monde/
-Adding discovered URL: /author/admin/
-Adding discovered URL: /2021/06/
-SAVING /category/non-classe/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/category/non-classe/index.html
+SAVING /category/non-classe/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/category/non-classe/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /category/non-classe/page/1
-Adding discovered URL: /feed/
-Adding discovered URL: /comments/feed/
-Adding discovered URL: /category/non-classe/feed/
-Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
-Adding discovered URL: /wp-content/themes/twentytwenty/style.css
-Adding discovered URL: /wp-content/themes/twentytwenty/print.css
-Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
-Adding discovered URL: /wp-json/
-Adding discovered URL: /wp-json/wp/v2/categories/1
-Adding discovered URL: /
-Adding discovered URL: /page-d-exemple/
-Adding discovered URL: /category/non-classe/
-Adding discovered URL: /2021/06/13/bonjour-tout-le-monde/
-Adding discovered URL: /author/admin/
-Adding discovered URL: /2021/06/
-SAVING /category/non-classe/page/1 to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/category/non-classe/page/1/index.html
+SAVING /category/non-classe/page/1 to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/category/non-classe/page/1/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /favicon.ico
@@ -224,23 +178,7 @@ BAD RESPONSE STATUS (404): /favicon.ico
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /page-d-exemple/
-Adding discovered URL: /feed/
-Adding discovered URL: /comments/feed/
-Adding discovered URL: /page-d-exemple/feed/
-Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
-Adding discovered URL: /wp-content/themes/twentytwenty/style.css
-Adding discovered URL: /wp-content/themes/twentytwenty/print.css
-Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
-Adding discovered URL: /wp-json/
-Adding discovered URL: /wp-json/wp/v2/pages/2
-Adding discovered URL: /page-d-exemple/
-Adding discovered URL: /
-Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: /wp-admin/
-Adding discovered URL: /2021/06/13/bonjour-tout-le-monde/
-Adding discovered URL: /2021/06/
-Adding discovered URL: /category/non-classe/
-SAVING /page-d-exemple/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/\/page-d-exemple/index.html
+SAVING /page-d-exemple/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/\/page-d-exemple/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /pages/page/1
@@ -252,756 +190,601 @@ BAD RESPONSE STATUS (404): /robots.txt
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /sitemap.xml
-SAVING /sitemap.xml to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/\/sitemap.xml
+SAVING /sitemap.xml to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/\/sitemap.xml
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wordpress/
-BAD RESPONSE STATUS (404): /wordpress/
+SAVING /wordpress/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/\/wordpress/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wordpress/2021/
-BAD RESPONSE STATUS (404): /wordpress/2021/
+SAVING /wordpress/2021/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wordpress/2021/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wordpress/2021/06/
-BAD RESPONSE STATUS (404): /wordpress/2021/06/
+SAVING /wordpress/2021/06/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wordpress/2021/06/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wordpress/2021/06/13/
-BAD RESPONSE STATUS (404): /wordpress/2021/06/13/
+SAVING /wordpress/2021/06/13/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wordpress/2021/06/13/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wordpress/2021/06/13/bonjour-tout-le-monde/
-Adding discovered URL: /feed/
-Adding discovered URL: /comments/feed/
-Adding discovered URL: /2021/06/13/bonjour-tout-le-monde/feed/
-Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
-Adding discovered URL: /wp-content/themes/twentytwenty/style.css
-Adding discovered URL: /wp-content/themes/twentytwenty/print.css
-Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
-Adding discovered URL: /wp-json/
-Adding discovered URL: /wp-json/wp/v2/posts/1
-Adding discovered URL: /2021/06/13/bonjour-tout-le-monde/
-Adding discovered URL: /
-Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: /page-d-exemple/
-Adding discovered URL: /category/non-classe/
-Adding discovered URL: /author/admin/
-Adding discovered URL: /2021/06/
-SAVING /wordpress/2021/06/13/bonjour-tout-le-monde/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wordpress/2021/06/13/bonjour-tout-le-monde/index.html
+SAVING /wordpress/2021/06/13/bonjour-tout-le-monde/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wordpress/2021/06/13/bonjour-tout-le-monde/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wordpress/page-d-exemple/
-Adding discovered URL: /feed/
-Adding discovered URL: /comments/feed/
-Adding discovered URL: /page-d-exemple/feed/
-Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
-Adding discovered URL: /wp-content/themes/twentytwenty/style.css
-Adding discovered URL: /wp-content/themes/twentytwenty/print.css
-Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
-Adding discovered URL: /wp-json/
-Adding discovered URL: /wp-json/wp/v2/pages/2
-Adding discovered URL: /page-d-exemple/
-Adding discovered URL: /
-Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: /wp-admin/
-Adding discovered URL: /2021/06/13/bonjour-tout-le-monde/
-Adding discovered URL: /2021/06/
-Adding discovered URL: /category/non-classe/
-SAVING /wordpress/page-d-exemple/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wordpress/page-d-exemple/index.html
+SAVING /wordpress/page-d-exemple/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wordpress/page-d-exemple/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css
-SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\css/editor-style-block-rtl.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\css/editor-style-block-rtl.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-block.css
-SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\css/editor-style-block.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\css/editor-style-block.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css
-SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\css/editor-style-classic-rtl.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\css/editor-style-classic-rtl.css
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css
-SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\css/editor-style-classic.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\css/editor-style-classic.css
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2
-SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2 to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-italic-var.woff2
+SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2 to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-italic-var.woff2
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2
-SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2 to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-upright-var.woff2
+SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2 to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-upright-var.woff2
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\images/2020-landscape-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\images/2020-landscape-1.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\images/2020-landscape-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\images/2020-landscape-2.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-square-1.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-1.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\images/2020-square-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-1.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\images/2020-square-1.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-square-2.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-2.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\images/2020-square-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-2.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\images/2020-square-2.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-1.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-2.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-3.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-3.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-4.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-4.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\color-calculations.js
-SAVING /wp-content/themes/twentytwenty\assets\js\color-calculations.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\js/color-calculations.js
+SAVING /wp-content/themes/twentytwenty\assets\js\color-calculations.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\js/color-calculations.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\customize-controls.js
-SAVING /wp-content/themes/twentytwenty\assets\js\customize-controls.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\js/customize-controls.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize-controls.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\js/customize-controls.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\customize-preview.js
-SAVING /wp-content/themes/twentytwenty\assets\js\customize-preview.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\js/customize-preview.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize-preview.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\js/customize-preview.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\customize.js
-SAVING /wp-content/themes/twentytwenty\assets\js\customize.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\js/customize.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\js/customize.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\editor-script-block.js
-SAVING /wp-content/themes/twentytwenty\assets\js\editor-script-block.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\js/editor-script-block.js
+SAVING /wp-content/themes/twentytwenty\assets\js\editor-script-block.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\js/editor-script-block.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\index.js
-SAVING /wp-content/themes/twentytwenty\assets\js\index.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\js/index.js
+SAVING /wp-content/themes/twentytwenty\assets\js\index.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\js/index.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js
-SAVING /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty\assets\js/skip-link-focus-fix.js
+SAVING /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty\assets\js/skip-link-focus-fix.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\package-lock.json
-SAVING /wp-content/themes/twentytwenty\package-lock.json to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/package-lock.json
+SAVING /wp-content/themes/twentytwenty\package-lock.json to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/package-lock.json
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\print.css
-SAVING /wp-content/themes/twentytwenty\print.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/print.css
+SAVING /wp-content/themes/twentytwenty\print.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/print.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\screenshot.png
-SAVING /wp-content/themes/twentytwenty\screenshot.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/screenshot.png
+SAVING /wp-content/themes/twentytwenty\screenshot.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/screenshot.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\style-rtl.css
-SAVING /wp-content/themes/twentytwenty\style-rtl.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/style-rtl.css
+SAVING /wp-content/themes/twentytwenty\style-rtl.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/style-rtl.css
 Memory allocated by crawl script: 6144
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\style.css
-SAVING /wp-content/themes/twentytwenty\style.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/style.css
+SAVING /wp-content/themes/twentytwenty\style.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/style.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\2020-landscape-1-1024x656.png
-SAVING /wp-content/uploads\2021\05\2020-landscape-1-1024x656.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/2020-landscape-1-1024x656.png
+SAVING /wp-content/uploads\2021\05\2020-landscape-1-1024x656.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/2020-landscape-1-1024x656.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\2020-landscape-1-150x150.png
-SAVING /wp-content/uploads\2021\05\2020-landscape-1-150x150.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/2020-landscape-1-150x150.png
+SAVING /wp-content/uploads\2021\05\2020-landscape-1-150x150.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/2020-landscape-1-150x150.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\2020-landscape-1-300x192.png
-SAVING /wp-content/uploads\2021\05\2020-landscape-1-300x192.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/2020-landscape-1-300x192.png
+SAVING /wp-content/uploads\2021\05\2020-landscape-1-300x192.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/2020-landscape-1-300x192.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\2020-landscape-1-768x492.png
-SAVING /wp-content/uploads\2021\05\2020-landscape-1-768x492.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/2020-landscape-1-768x492.png
+SAVING /wp-content/uploads\2021\05\2020-landscape-1-768x492.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/2020-landscape-1-768x492.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\2020-landscape-1.png
-SAVING /wp-content/uploads\2021\05\2020-landscape-1.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/2020-landscape-1.png
+SAVING /wp-content/uploads\2021\05\2020-landscape-1.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/2020-landscape-1.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\accueil-1024x252.jpg
-SAVING /wp-content/uploads\2021\05\accueil-1024x252.jpg to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/accueil-1024x252.jpg
+SAVING /wp-content/uploads\2021\05\accueil-1024x252.jpg to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/accueil-1024x252.jpg
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\accueil-150x150.jpg
-SAVING /wp-content/uploads\2021\05\accueil-150x150.jpg to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/accueil-150x150.jpg
+SAVING /wp-content/uploads\2021\05\accueil-150x150.jpg to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/accueil-150x150.jpg
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\accueil-300x74.jpg
-SAVING /wp-content/uploads\2021\05\accueil-300x74.jpg to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/accueil-300x74.jpg
+SAVING /wp-content/uploads\2021\05\accueil-300x74.jpg to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/accueil-300x74.jpg
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\accueil-768x189.jpg
-SAVING /wp-content/uploads\2021\05\accueil-768x189.jpg to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/accueil-768x189.jpg
+SAVING /wp-content/uploads\2021\05\accueil-768x189.jpg to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/accueil-768x189.jpg
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\accueil.jpg
-SAVING /wp-content/uploads\2021\05\accueil.jpg to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/accueil.jpg
+SAVING /wp-content/uploads\2021\05\accueil.jpg to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/accueil.jpg
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\cropped-logo-150x144.png
-SAVING /wp-content/uploads\2021\05\cropped-logo-150x144.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/cropped-logo-150x144.png
+SAVING /wp-content/uploads\2021\05\cropped-logo-150x144.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/cropped-logo-150x144.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\cropped-logo.png
-SAVING /wp-content/uploads\2021\05\cropped-logo.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/cropped-logo.png
+SAVING /wp-content/uploads\2021\05\cropped-logo.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/cropped-logo.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\logo-150x144.png
-SAVING /wp-content/uploads\2021\05\logo-150x144.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/logo-150x144.png
+SAVING /wp-content/uploads\2021\05\logo-150x144.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/logo-150x144.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\2021\05\logo.png
-SAVING /wp-content/uploads\2021\05\logo.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\2021\05/logo.png
+SAVING /wp-content/uploads\2021\05\logo.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\2021\05/logo.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\2021\06\13\bonjour-tout-le-monde\feed\index.html
-SAVING /wp-content/uploads\static-html-output\2021\06\13\bonjour-tout-le-monde\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\2021\06\13\bonjour-tout-le-monde\feed/index.html
+SAVING /wp-content/uploads\static-html-output\2021\06\13\bonjour-tout-le-monde\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\2021\06\13\bonjour-tout-le-monde\feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\2021\06\13\bonjour-tout-le-monde\index.html
-SAVING /wp-content/uploads\static-html-output\2021\06\13\bonjour-tout-le-monde\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\2021\06\13\bonjour-tout-le-monde/index.html
+SAVING /wp-content/uploads\static-html-output\2021\06\13\bonjour-tout-le-monde\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\2021\06\13\bonjour-tout-le-monde/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\2021\06\18\nouveau-post\feed\index.html
-SAVING /wp-content/uploads\static-html-output\2021\06\18\nouveau-post\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\2021\06\18\nouveau-post\feed/index.html
+SAVING /wp-content/uploads\static-html-output\2021\06\18\nouveau-post\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\2021\06\18\nouveau-post\feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\2021\06\18\nouveau-post\index.html
-SAVING /wp-content/uploads\static-html-output\2021\06\18\nouveau-post\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\2021\06\18\nouveau-post/index.html
+SAVING /wp-content/uploads\static-html-output\2021\06\18\nouveau-post\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\2021\06\18\nouveau-post/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\2021\06\index.html
-SAVING /wp-content/uploads\static-html-output\2021\06\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\2021\06/index.html
+SAVING /wp-content/uploads\static-html-output\2021\06\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\2021\06/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\author\admin\feed\index.html
-SAVING /wp-content/uploads\static-html-output\author\admin\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\author\admin\feed/index.html
+SAVING /wp-content/uploads\static-html-output\author\admin\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\author\admin\feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\author\admin\index.html
-SAVING /wp-content/uploads\static-html-output\author\admin\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\author\admin/index.html
+SAVING /wp-content/uploads\static-html-output\author\admin\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\author\admin/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\category\non-classe\feed\index.html
-SAVING /wp-content/uploads\static-html-output\category\non-classe\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\category\non-classe\feed/index.html
+SAVING /wp-content/uploads\static-html-output\category\non-classe\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\category\non-classe\feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\category\non-classe\index.html
-SAVING /wp-content/uploads\static-html-output\category\non-classe\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\category\non-classe/index.html
+SAVING /wp-content/uploads\static-html-output\category\non-classe\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\category\non-classe/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\comments\feed\index.html
-SAVING /wp-content/uploads\static-html-output\comments\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\comments\feed/index.html
+SAVING /wp-content/uploads\static-html-output\comments\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\comments\feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\feed\index.html
-SAVING /wp-content/uploads\static-html-output\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\feed/index.html
+SAVING /wp-content/uploads\static-html-output\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\index.html
-SAVING /wp-content/uploads\static-html-output\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output/index.html
+SAVING /wp-content/uploads\static-html-output\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\page-d-exemple\feed\index.html
-SAVING /wp-content/uploads\static-html-output\page-d-exemple\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\page-d-exemple\feed/index.html
+SAVING /wp-content/uploads\static-html-output\page-d-exemple\feed\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\page-d-exemple\feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\page-d-exemple\index.html
-SAVING /wp-content/uploads\static-html-output\page-d-exemple\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\page-d-exemple/index.html
+SAVING /wp-content/uploads\static-html-output\page-d-exemple\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\page-d-exemple/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\sitemap.xml
-SAVING /wp-content/uploads\static-html-output\sitemap.xml to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output/sitemap.xml
+SAVING /wp-content/uploads\static-html-output\sitemap.xml to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output/sitemap.xml
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wordpress\2021\06\13\bonjour-tout-le-monde\index.html
-SAVING /wp-content/uploads\static-html-output\wordpress\2021\06\13\bonjour-tout-le-monde\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wordpress\2021\06\13\bonjour-tout-le-monde/index.html
+SAVING /wp-content/uploads\static-html-output\wordpress\2021\06\13\bonjour-tout-le-monde\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wordpress\2021\06\13\bonjour-tout-le-monde/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wordpress\2021\06\18\nouveau-post\index.html
-SAVING /wp-content/uploads\static-html-output\wordpress\2021\06\18\nouveau-post\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wordpress\2021\06\18\nouveau-post/index.html
+SAVING /wp-content/uploads\static-html-output\wordpress\2021\06\18\nouveau-post\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wordpress\2021\06\18\nouveau-post/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wordpress\page-d-exemple\index.html
-SAVING /wp-content/uploads\static-html-output\wordpress\page-d-exemple\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wordpress\page-d-exemple/index.html
+SAVING /wp-content/uploads\static-html-output\wordpress\page-d-exemple\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wordpress\page-d-exemple/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-admin\css\forms.min.css
-SAVING /wp-content/uploads\static-html-output\wp-admin\css\forms.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-admin\css/forms.min.css
+SAVING /wp-content/uploads\static-html-output\wp-admin\css\forms.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-admin\css/forms.min.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-admin\css\l10n.min.css
-SAVING /wp-content/uploads\static-html-output\wp-admin\css\l10n.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-admin\css/l10n.min.css
+SAVING /wp-content/uploads\static-html-output\wp-admin\css\l10n.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-admin\css/l10n.min.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-admin\css\login.min.css
-SAVING /wp-content/uploads\static-html-output\wp-admin\css\login.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-admin\css/login.min.css
+SAVING /wp-content/uploads\static-html-output\wp-admin\css\login.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-admin\css/login.min.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-admin\images\loading.gif
-SAVING /wp-content/uploads\static-html-output\wp-admin\images\loading.gif to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-admin\images/loading.gif
+SAVING /wp-content/uploads\static-html-output\wp-admin\images\loading.gif to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-admin\images/loading.gif
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-admin\images\w-logo-blue.png
-SAVING /wp-content/uploads\static-html-output\wp-admin\images\w-logo-blue.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-admin\images/w-logo-blue.png
+SAVING /wp-content/uploads\static-html-output\wp-admin\images\w-logo-blue.png to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-admin\images/w-logo-blue.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-admin\images\wordpress-logo.svg
-SAVING /wp-content/uploads\static-html-output\wp-admin\images\wordpress-logo.svg to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-admin\images/wordpress-logo.svg
+SAVING /wp-content/uploads\static-html-output\wp-admin\images\wordpress-logo.svg to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-admin\images/wordpress-logo.svg
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-admin\index.html
-SAVING /wp-content/uploads\static-html-output\wp-admin\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-admin/index.html
+SAVING /wp-content/uploads\static-html-output\wp-admin\index.html to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-admin/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-admin\js\password-strength-meter.min.js
-SAVING /wp-content/uploads\static-html-output\wp-admin\js\password-strength-meter.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-admin\js/password-strength-meter.min.js
+SAVING /wp-content/uploads\static-html-output\wp-admin\js\password-strength-meter.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-admin\js/password-strength-meter.min.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-admin\js\user-profile.min.js
-SAVING /wp-content/uploads\static-html-output\wp-admin\js\user-profile.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-admin\js/user-profile.min.js
+SAVING /wp-content/uploads\static-html-output\wp-admin\js\user-profile.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-admin\js/user-profile.min.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\fonts\inter\Inter-italic-var.woff2
-SAVING /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\fonts\inter\Inter-italic-var.woff2 to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\fonts\inter/Inter-italic-var.woff2
+SAVING /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\fonts\inter\Inter-italic-var.woff2 to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\fonts\inter/Inter-italic-var.woff2
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\fonts\inter\Inter-upright-var.woff2
-SAVING /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\fonts\inter\Inter-upright-var.woff2 to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\fonts\inter/Inter-upright-var.woff2
+SAVING /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\fonts\inter\Inter-upright-var.woff2 to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\fonts\inter/Inter-upright-var.woff2
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\js\index.js
-SAVING /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\js\index.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\js/index.js
+SAVING /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\js\index.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\assets\js/index.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\print.css
-SAVING /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\print.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-content\themes\twentytwenty/print.css
+SAVING /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\print.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-content\themes\twentytwenty/print.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\style.css
-SAVING /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\style.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-content\themes\twentytwenty/style.css
+SAVING /wp-content/uploads\static-html-output\wp-content\themes\twentytwenty\style.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-content\themes\twentytwenty/style.css
 Memory allocated by crawl script: 6144
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-includes\css\buttons.min.css
-SAVING /wp-content/uploads\static-html-output\wp-includes\css\buttons.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-includes\css/buttons.min.css
+SAVING /wp-content/uploads\static-html-output\wp-includes\css\buttons.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-includes\css/buttons.min.css
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-includes\css\dashicons.min.css
-SAVING /wp-content/uploads\static-html-output\wp-includes\css\dashicons.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-includes\css/dashicons.min.css
+SAVING /wp-content/uploads\static-html-output\wp-includes\css\dashicons.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-includes\css/dashicons.min.css
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-includes\css\dist\block-library\style.min.css
-SAVING /wp-content/uploads\static-html-output\wp-includes\css\dist\block-library\style.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-includes\css\dist\block-library/style.min.css
+SAVING /wp-content/uploads\static-html-output\wp-includes\css\dist\block-library\style.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-includes\css\dist\block-library/style.min.css
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-includes\fonts\dashicons.eot
-SAVING /wp-content/uploads\static-html-output\wp-includes\fonts\dashicons.eot to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-includes\fonts/dashicons.eot
+SAVING /wp-content/uploads\static-html-output\wp-includes\fonts\dashicons.eot to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-includes\fonts/dashicons.eot
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-includes\fonts\dashicons.ttf
-SAVING /wp-content/uploads\static-html-output\wp-includes\fonts\dashicons.ttf to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-includes\fonts/dashicons.ttf
+SAVING /wp-content/uploads\static-html-output\wp-includes\fonts\dashicons.ttf to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-includes\fonts/dashicons.ttf
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-includes\js\dist\hooks.min.js
-SAVING /wp-content/uploads\static-html-output\wp-includes\js\dist\hooks.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-includes\js\dist/hooks.min.js
+SAVING /wp-content/uploads\static-html-output\wp-includes\js\dist\hooks.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-includes\js\dist/hooks.min.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-includes\js\dist\i18n.min.js
-SAVING /wp-content/uploads\static-html-output\wp-includes\js\dist\i18n.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-includes\js\dist/i18n.min.js
+SAVING /wp-content/uploads\static-html-output\wp-includes\js\dist\i18n.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-includes\js\dist/i18n.min.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-includes\js\jquery\jquery-migrate.min.js
-SAVING /wp-content/uploads\static-html-output\wp-includes\js\jquery\jquery-migrate.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-includes\js\jquery/jquery-migrate.min.js
+SAVING /wp-content/uploads\static-html-output\wp-includes\js\jquery\jquery-migrate.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-includes\js\jquery/jquery-migrate.min.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-includes\js\jquery\jquery.min.js
-SAVING /wp-content/uploads\static-html-output\wp-includes\js\jquery\jquery.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-includes\js\jquery/jquery.min.js
+SAVING /wp-content/uploads\static-html-output\wp-includes\js\jquery\jquery.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-includes\js\jquery/jquery.min.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-includes\js\underscore.min.js
-SAVING /wp-content/uploads\static-html-output\wp-includes\js\underscore.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-includes\js/underscore.min.js
+SAVING /wp-content/uploads\static-html-output\wp-includes\js\underscore.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-includes\js/underscore.min.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-includes\js\wp-util.min.js
-SAVING /wp-content/uploads\static-html-output\wp-includes\js\wp-util.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-includes\js/wp-util.min.js
+SAVING /wp-content/uploads\static-html-output\wp-includes\js\wp-util.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-includes\js/wp-util.min.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/uploads\static-html-output\wp-includes\js\zxcvbn-async.min.js
-SAVING /wp-content/uploads\static-html-output\wp-includes\js\zxcvbn-async.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads\static-html-output\wp-includes\js/zxcvbn-async.min.js
+SAVING /wp-content/uploads\static-html-output\wp-includes\js\zxcvbn-async.min.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads\static-html-output\wp-includes\js/zxcvbn-async.min.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /2021/06/
-Adding discovered URL: /feed/
-Adding discovered URL: /comments/feed/
-Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
-Adding discovered URL: /wp-content/themes/twentytwenty/style.css
-Adding discovered URL: /wp-content/themes/twentytwenty/print.css
-Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
-Adding discovered URL: /wp-json/
-Adding discovered URL: /
-Adding discovered URL: /page-d-exemple/
-Adding discovered URL: /category/non-classe/
-Adding discovered URL: /2021/06/13/bonjour-tout-le-monde/
-Adding discovered URL: /author/admin/
-Adding discovered URL: /2021/06/
-SAVING /2021/06/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/2021/06/index.html
-Memory allocated by crawl script: 4096
-Exclusion rules wp-json
-Crawling /2021/06/13/bonjour-tout-le-monde/feed/
-SAVING /2021/06/13/bonjour-tout-le-monde/feed/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/2021/06/13/bonjour-tout-le-monde/feed/index.html
+SAVING /2021/06/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/2021/06/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /author/admin/
-Adding discovered URL: /feed/
-Adding discovered URL: /comments/feed/
-Adding discovered URL: /author/admin/feed/
-Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
-Adding discovered URL: /wp-content/themes/twentytwenty/style.css
-Adding discovered URL: /wp-content/themes/twentytwenty/print.css
-Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
-Adding discovered URL: /wp-json/
-Adding discovered URL: /wp-json/wp/v2/users/1
-Adding discovered URL: /
-Adding discovered URL: /page-d-exemple/
-Adding discovered URL: /category/non-classe/
-Adding discovered URL: /2021/06/13/bonjour-tout-le-monde/
-Adding discovered URL: /author/admin/
-Adding discovered URL: /2021/06/
-SAVING /author/admin/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/author/admin/index.html
-Memory allocated by crawl script: 4096
-Exclusion rules wp-json
-Crawling /category/non-classe/feed/
-SAVING /category/non-classe/feed/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/category/non-classe/feed/index.html
+SAVING /author/admin/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/author/admin/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /comments/feed/
-SAVING /comments/feed/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/comments/feed/index.html
+SAVING /comments/feed/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/comments/feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /feed/
-SAVING /feed/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/\/feed/index.html
-Memory allocated by crawl script: 2048
-Exclusion rules wp-json
-Crawling /page-d-exemple/feed/
-SAVING /page-d-exemple/feed/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/page-d-exemple/feed/index.html
-Memory allocated by crawl script: 2048
-Exclusion rules wp-json
-Crawling /wp-admin/
-Adding discovered URL: /wp-includes/css/dashicons.min.css
-Adding discovered URL: /wp-includes/css/buttons.min.css
-Adding discovered URL: /wp-admin/css/forms.min.css
-Adding discovered URL: /wp-admin/css/l10n.min.css
-Adding discovered URL: /wp-admin/css/login.min.css
-Adding discovered URL: /
-Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
-Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
-Adding discovered URL: /wp-includes/js/zxcvbn-async.min.js
-Adding discovered URL: /wp-includes/js/dist/vendor/wp-polyfill.min.js
-Adding discovered URL: /wp-includes/js/dist/hooks.min.js
-Adding discovered URL: /wp-includes/js/dist/i18n.min.js
-Adding discovered URL: /wp-admin/js/password-strength-meter.min.js
-Adding discovered URL: /wp-includes/js/underscore.min.js
-Adding discovered URL: /wp-includes/js/wp-util.min.js
-Adding discovered URL: /wp-admin/js/user-profile.min.js
-SAVING /wp-admin/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/\/wp-admin/index.html
+SAVING /feed/ to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/\/feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty/assets/js/index.js
-SAVING /wp-content/themes/twentytwenty/assets/js/index.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/js/index.js
+SAVING /wp-content/themes/twentytwenty/assets/js/index.js to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/js/index.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty/print.css
-SAVING /wp-content/themes/twentytwenty/print.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/print.css
+SAVING /wp-content/themes/twentytwenty/print.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/print.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty/style.css
-SAVING /wp-content/themes/twentytwenty/style.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/style.css
+SAVING /wp-content/themes/twentytwenty/style.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/style.css
 Memory allocated by crawl script: 6144
 Exclusion rules wp-json
 Crawling /wp-includes/css/dist/block-library/style.min.css
-SAVING /wp-includes/css/dist/block-library/style.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-includes/css/dist/block-library/style.min.css
+SAVING /wp-includes/css/dist/block-library/style.min.css to C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-includes/css/dist/block-library/style.min.css
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Excluding /wp-json/ because of rule wp-json
-Exclusion rules wp-json
-Excluding /wp-json/oembed/1.0/embed because of rule wp-json
-Exclusion rules wp-json
-Excluding /wp-json/wp/v2/categories/1 because of rule wp-json
-Exclusion rules wp-json
-Excluding /wp-json/wp/v2/pages/2 because of rule wp-json
-Exclusion rules wp-json
-Excluding /wp-json/wp/v2/posts/1 because of rule wp-json
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/2021/06/13/bonjour-tout-le-monde/feed/index.html to 2021/06/13/bonjour-tout-le-monde/feed/index.html in GitHub
-Skipping 2021/06/13/bonjour-tout-le-monde/feed/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/2021/06/13/bonjour-tout-le-monde/index.html to 2021/06/13/bonjour-tout-le-monde/index.html in GitHub
-API response code 200
-API response body {"data":{"repository":{"object":{"oid":"23a0f0e1488eb33aeb8c1fe318ecca0d48f76e16","byteSize":27382}}}}
-2021/06/13/bonjour-tout-le-monde/index.html path exists in GitHub
-Updating 2021/06/13/bonjour-tout-le-monde/index.html in GitHub
-API response code 200
-API response body {"content":{"name":"index.html","path":"2021/06/13/bonjour-tout-le-monde/index.html","sha":"c50a0221d41a403a8a3cc5efbcbeb8aba85235c3","size":26688,"url":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/2021/06/13/bonjour-tout-le-monde/index.html?ref=gh-pages","html_url":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/2021/06/13/bonjour-tout-le-monde/index.html","git_url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/c50a0221d41a403a8a3cc5efbcbeb8aba85235c3","download_url":"https://raw.githubusercontent.com/LiveHeroes/github_wordpress/gh-pages/2021/06/13/bonjour-tout-le-monde/index.html","type":"file","_links":{"self":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/2021/06/13/bonjour-tout-le-monde/index.html?ref=gh-pages","git":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/c50a0221d41a403a8a3cc5efbcbeb8aba85235c3","html":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/2021/06/13/bonjour-tout-le-monde/index.html"}},"commit":{"sha":"68358a99e450cfdfbab50d36e1b79723ae48e1c2","node_id":"MDY6Q29tbWl0Mzc4MDc1ODk3OjY4MzU4YTk5ZTQ1MGNmZGZiYWI1MGQzNmUxYjc5NzIzYWU0OGUxYzI=","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/68358a99e450cfdfbab50d36e1b79723ae48e1c2","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/68358a99e450cfdfbab50d36e1b79723ae48e1c2","author":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:36Z"},"committer":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:36Z"},"tree":{"sha":"831a50196e0a760b84743b78651c6466c4e1aaad","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/trees/831a50196e0a760b84743b78651c6466c4e1aaad"},"message":"WP2Static UPDATE 2021/06/13/bonjour-tout-le-monde/index.html","parents":[{"sha":"20ca038d674b9f1a939c057b2b7dededeaaf720c","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/20ca038d674b9f1a939c057b2b7dededeaaf720c","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/20ca038d674b9f1a939c057b2b7dededeaaf720c"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/2021/06/index.html to 2021/06/index.html in GitHub
-API response code 200
-API response body {"data":{"repository":{"object":{"oid":"e200f91df2dd814d7add3fe3c2a5df4e9cf3f3d7","byteSize":28571}}}}
-2021/06/index.html path exists in GitHub
-Updating 2021/06/index.html in GitHub
-API response code 200
-API response body {"content":{"name":"index.html","path":"2021/06/index.html","sha":"cf5615eeda59e76e37c3188a732dc2f400e3c106","size":22827,"url":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/2021/06/index.html?ref=gh-pages","html_url":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/2021/06/index.html","git_url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/cf5615eeda59e76e37c3188a732dc2f400e3c106","download_url":"https://raw.githubusercontent.com/LiveHeroes/github_wordpress/gh-pages/2021/06/index.html","type":"file","_links":{"self":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/2021/06/index.html?ref=gh-pages","git":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/cf5615eeda59e76e37c3188a732dc2f400e3c106","html":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/2021/06/index.html"}},"commit":{"sha":"1481d922ace07ff9e1a42dbcd7d58fd52aef7b1d","node_id":"MDY6Q29tbWl0Mzc4MDc1ODk3OjE0ODFkOTIyYWNlMDdmZjllMWE0MmRiY2Q3ZDU4ZmQ1MmFlZjdiMWQ=","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/1481d922ace07ff9e1a42dbcd7d58fd52aef7b1d","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/1481d922ace07ff9e1a42dbcd7d58fd52aef7b1d","author":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:36Z"},"committer":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:36Z"},"tree":{"sha":"8bdf3fd2aba5ec029159aea175cf1ae2ca6a3562","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/trees/8bdf3fd2aba5ec029159aea175cf1ae2ca6a3562"},"message":"WP2Static UPDATE 2021/06/index.html","parents":[{"sha":"68358a99e450cfdfbab50d36e1b79723ae48e1c2","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/68358a99e450cfdfbab50d36e1b79723ae48e1c2","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/68358a99e450cfdfbab50d36e1b79723ae48e1c2"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/author/admin/index.html to author/admin/index.html in GitHub
-API response code 200
-API response body {"data":{"repository":{"object":{"oid":"7662b242354567e0f0c24070652c68c0980c106e","byteSize":28598}}}}
-author/admin/index.html path exists in GitHub
-Updating author/admin/index.html in GitHub
-API response code 200
-API response body {"content":{"name":"index.html","path":"author/admin/index.html","sha":"cf51112d49971b2c1b3665b3016909369ded3ac5","size":22854,"url":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/author/admin/index.html?ref=gh-pages","html_url":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/author/admin/index.html","git_url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/cf51112d49971b2c1b3665b3016909369ded3ac5","download_url":"https://raw.githubusercontent.com/LiveHeroes/github_wordpress/gh-pages/author/admin/index.html","type":"file","_links":{"self":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/author/admin/index.html?ref=gh-pages","git":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/cf51112d49971b2c1b3665b3016909369ded3ac5","html":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/author/admin/index.html"}},"commit":{"sha":"9053344400170cfc355aaa03d2100b42038c5050","node_id":"MDY6Q29tbWl0Mzc4MDc1ODk3OjkwNTMzNDQ0MDAxNzBjZmMzNTVhYWEwM2QyMTAwYjQyMDM4YzUwNTA=","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/9053344400170cfc355aaa03d2100b42038c5050","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/9053344400170cfc355aaa03d2100b42038c5050","author":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:37Z"},"committer":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:37Z"},"tree":{"sha":"d12a694f480c761d6b1a0f96ffd05ff07144acfb","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/trees/d12a694f480c761d6b1a0f96ffd05ff07144acfb"},"message":"WP2Static UPDATE author/admin/index.html","parents":[{"sha":"1481d922ace07ff9e1a42dbcd7d58fd52aef7b1d","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/1481d922ace07ff9e1a42dbcd7d58fd52aef7b1d","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/1481d922ace07ff9e1a42dbcd7d58fd52aef7b1d"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/category/non-classe/feed/index.html to category/non-classe/feed/index.html in GitHub
-API response code 200
-API response body {"data":{"repository":{"object":{"oid":"aa1336891753ba1a853fca76aa154349db021ffe","byteSize":2744}}}}
-category/non-classe/feed/index.html path exists in GitHub
-Updating category/non-classe/feed/index.html in GitHub
-API response code 200
-API response body {"content":{"name":"index.html","path":"category/non-classe/feed/index.html","sha":"b02089da56aec65b1c933e5eddf39899e963bb9d","size":1960,"url":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/category/non-classe/feed/index.html?ref=gh-pages","html_url":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/category/non-classe/feed/index.html","git_url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/b02089da56aec65b1c933e5eddf39899e963bb9d","download_url":"https://raw.githubusercontent.com/LiveHeroes/github_wordpress/gh-pages/category/non-classe/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/category/non-classe/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/b02089da56aec65b1c933e5eddf39899e963bb9d","html":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/category/non-classe/feed/index.html"}},"commit":{"sha":"d46c7401a3de7655775cb725b6060142727ece78","node_id":"MDY6Q29tbWl0Mzc4MDc1ODk3OmQ0NmM3NDAxYTNkZTc2NTU3NzVjYjcyNWI2MDYwMTQyNzI3ZWNlNzg=","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/d46c7401a3de7655775cb725b6060142727ece78","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/d46c7401a3de7655775cb725b6060142727ece78","author":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:38Z"},"committer":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:38Z"},"tree":{"sha":"42ecc8c1065e0b4e9660af76567270cef130f694","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/trees/42ecc8c1065e0b4e9660af76567270cef130f694"},"message":"WP2Static UPDATE category/non-classe/feed/index.html","parents":[{"sha":"9053344400170cfc355aaa03d2100b42038c5050","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/9053344400170cfc355aaa03d2100b42038c5050","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/9053344400170cfc355aaa03d2100b42038c5050"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/category/non-classe/index.html to category/non-classe/index.html in GitHub
-API response code 200
-API response body {"data":{"repository":{"object":{"oid":"e82e412f3fd2b97d64a57d3619ab8c08d73f1957","byteSize":28649}}}}
-category/non-classe/index.html path exists in GitHub
-Updating category/non-classe/index.html in GitHub
-API response code 200
-API response body {"content":{"name":"index.html","path":"category/non-classe/index.html","sha":"78a511cd3102478f44cfeb86bc9a5f23952f53d9","size":22905,"url":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/category/non-classe/index.html?ref=gh-pages","html_url":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/category/non-classe/index.html","git_url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/78a511cd3102478f44cfeb86bc9a5f23952f53d9","download_url":"https://raw.githubusercontent.com/LiveHeroes/github_wordpress/gh-pages/category/non-classe/index.html","type":"file","_links":{"self":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/category/non-classe/index.html?ref=gh-pages","git":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/78a511cd3102478f44cfeb86bc9a5f23952f53d9","html":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/category/non-classe/index.html"}},"commit":{"sha":"ad55dd32614670be00843da32e629b8a535e0f87","node_id":"MDY6Q29tbWl0Mzc4MDc1ODk3OmFkNTVkZDMyNjE0NjcwYmUwMDg0M2RhMzJlNjI5YjhhNTM1ZTBmODc=","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/ad55dd32614670be00843da32e629b8a535e0f87","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/ad55dd32614670be00843da32e629b8a535e0f87","author":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:38Z"},"committer":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:38Z"},"tree":{"sha":"351c70543e6424bb11d1501c3178c64ad23ba186","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/trees/351c70543e6424bb11d1501c3178c64ad23ba186"},"message":"WP2Static UPDATE category/non-classe/index.html","parents":[{"sha":"d46c7401a3de7655775cb725b6060142727ece78","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/d46c7401a3de7655775cb725b6060142727ece78","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/d46c7401a3de7655775cb725b6060142727ece78"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/category/non-classe/page/1/index.html to category/non-classe/page/1/index.html in GitHub
-API response code 200
-API response body {"data":{"repository":{"object":{"oid":"e82e412f3fd2b97d64a57d3619ab8c08d73f1957","byteSize":28649}}}}
-category/non-classe/page/1/index.html path exists in GitHub
-Updating category/non-classe/page/1/index.html in GitHub
-API response code 200
-API response body {"content":{"name":"index.html","path":"category/non-classe/page/1/index.html","sha":"78a511cd3102478f44cfeb86bc9a5f23952f53d9","size":22905,"url":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/category/non-classe/page/1/index.html?ref=gh-pages","html_url":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/category/non-classe/page/1/index.html","git_url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/78a511cd3102478f44cfeb86bc9a5f23952f53d9","download_url":"https://raw.githubusercontent.com/LiveHeroes/github_wordpress/gh-pages/category/non-classe/page/1/index.html","type":"file","_links":{"self":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/category/non-classe/page/1/index.html?ref=gh-pages","git":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/78a511cd3102478f44cfeb86bc9a5f23952f53d9","html":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/category/non-classe/page/1/index.html"}},"commit":{"sha":"3bd7590d9fc87b1e87bd364e4e982ef64847a751","node_id":"MDY6Q29tbWl0Mzc4MDc1ODk3OjNiZDc1OTBkOWZjODdiMWU4N2JkMzY0ZTRlOTgyZWY2NDg0N2E3NTE=","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/3bd7590d9fc87b1e87bd364e4e982ef64847a751","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/3bd7590d9fc87b1e87bd364e4e982ef64847a751","author":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:39Z"},"committer":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:39Z"},"tree":{"sha":"747cecd28fd34f4da4488822514c77d994859bb2","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/trees/747cecd28fd34f4da4488822514c77d994859bb2"},"message":"WP2Static UPDATE category/non-classe/page/1/index.html","parents":[{"sha":"ad55dd32614670be00843da32e629b8a535e0f87","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/ad55dd32614670be00843da32e629b8a535e0f87","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/ad55dd32614670be00843da32e629b8a535e0f87"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/comments/feed/index.html to comments/feed/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/2021/06/13/bonjour-tout-le-monde/index.html to 2021/06/13/bonjour-tout-le-monde/index.html in GitHub
+Skipping 2021/06/13/bonjour-tout-le-monde/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/2021/06/index.html to 2021/06/index.html in GitHub
+Skipping 2021/06/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/author/admin/index.html to author/admin/index.html in GitHub
+Skipping author/admin/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/category/non-classe/index.html to category/non-classe/index.html in GitHub
+Skipping category/non-classe/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/category/non-classe/page/1/index.html to category/non-classe/page/1/index.html in GitHub
+Skipping category/non-classe/page/1/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/comments/feed/index.html to comments/feed/index.html in GitHub
 Skipping comments/feed/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/feed/index.html to feed/index.html in GitHub
-API response code 200
-API response body {"data":{"repository":{"object":{"oid":"640136fa26231eb297eb8c55da441523cc136908","byteSize":2704}}}}
-feed/index.html path exists in GitHub
-Updating feed/index.html in GitHub
-API response code 200
-API response body {"content":{"name":"index.html","path":"feed/index.html","sha":"86e6315d3af43a457cbaa9a47194ebfa99d981e5","size":1920,"url":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/feed/index.html?ref=gh-pages","html_url":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/feed/index.html","git_url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/86e6315d3af43a457cbaa9a47194ebfa99d981e5","download_url":"https://raw.githubusercontent.com/LiveHeroes/github_wordpress/gh-pages/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/86e6315d3af43a457cbaa9a47194ebfa99d981e5","html":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/feed/index.html"}},"commit":{"sha":"d25b2b2402c33de7588df5b37198b8c5f5ec7c5b","node_id":"MDY6Q29tbWl0Mzc4MDc1ODk3OmQyNWIyYjI0MDJjMzNkZTc1ODhkZjViMzcxOThiOGM1ZjVlYzdjNWI=","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/d25b2b2402c33de7588df5b37198b8c5f5ec7c5b","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/d25b2b2402c33de7588df5b37198b8c5f5ec7c5b","author":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:40Z"},"committer":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:40Z"},"tree":{"sha":"d6b4f54756580526c6d6cfb5a8a098059a0f23ad","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/trees/d6b4f54756580526c6d6cfb5a8a098059a0f23ad"},"message":"WP2Static UPDATE feed/index.html","parents":[{"sha":"3bd7590d9fc87b1e87bd364e4e982ef64847a751","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/3bd7590d9fc87b1e87bd364e4e982ef64847a751","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/3bd7590d9fc87b1e87bd364e4e982ef64847a751"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/index.html to index.html in GitHub
-API response code 200
-API response body {"data":{"repository":{"object":{"oid":"1b914599db3370a5553fd9718c442418c0d2856c","byteSize":28272}}}}
-index.html path exists in GitHub
-Updating index.html in GitHub
-API response code 200
-API response body {"content":{"name":"index.html","path":"index.html","sha":"581663a3be01c0f80b9804b5143d5888be3877b8","size":22528,"url":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/index.html?ref=gh-pages","html_url":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/index.html","git_url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/581663a3be01c0f80b9804b5143d5888be3877b8","download_url":"https://raw.githubusercontent.com/LiveHeroes/github_wordpress/gh-pages/index.html","type":"file","_links":{"self":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/index.html?ref=gh-pages","git":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/581663a3be01c0f80b9804b5143d5888be3877b8","html":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/index.html"}},"commit":{"sha":"27abb14105c45239db034406dd060fb6e89b4433","node_id":"MDY6Q29tbWl0Mzc4MDc1ODk3OjI3YWJiMTQxMDVjNDUyMzlkYjAzNDQwNmRkMDYwZmI2ZTg5YjQ0MzM=","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/27abb14105c45239db034406dd060fb6e89b4433","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/27abb14105c45239db034406dd060fb6e89b4433","author":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:41Z"},"committer":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:41Z"},"tree":{"sha":"aa41c318f935980cde53a64bc5242b4769c1dd35","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/trees/aa41c318f935980cde53a64bc5242b4769c1dd35"},"message":"WP2Static UPDATE index.html","parents":[{"sha":"d25b2b2402c33de7588df5b37198b8c5f5ec7c5b","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/d25b2b2402c33de7588df5b37198b8c5f5ec7c5b","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/d25b2b2402c33de7588df5b37198b8c5f5ec7c5b"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/page-d-exemple/feed/index.html to page-d-exemple/feed/index.html in GitHub
-Skipping page-d-exemple/feed/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/page-d-exemple/index.html to page-d-exemple/index.html in GitHub
-API response code 200
-API response body {"data":{"repository":{"object":{"oid":"dd6674502ffe4448d4f28b039056bae144576804","byteSize":18997}}}}
-page-d-exemple/index.html path exists in GitHub
-Updating page-d-exemple/index.html in GitHub
-API response code 200
-API response body {"content":{"name":"index.html","path":"page-d-exemple/index.html","sha":"f626004debae1d4353df57c55caf0ca2b8978da0","size":18863,"url":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/page-d-exemple/index.html?ref=gh-pages","html_url":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/page-d-exemple/index.html","git_url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/f626004debae1d4353df57c55caf0ca2b8978da0","download_url":"https://raw.githubusercontent.com/LiveHeroes/github_wordpress/gh-pages/page-d-exemple/index.html","type":"file","_links":{"self":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/page-d-exemple/index.html?ref=gh-pages","git":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/f626004debae1d4353df57c55caf0ca2b8978da0","html":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/page-d-exemple/index.html"}},"commit":{"sha":"2eedbc33bcf3d246d000240fc0ceb8e2bf7867af","node_id":"MDY6Q29tbWl0Mzc4MDc1ODk3OjJlZWRiYzMzYmNmM2QyNDZkMDAwMjQwZmMwY2ViOGUyYmY3ODY3YWY=","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/2eedbc33bcf3d246d000240fc0ceb8e2bf7867af","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/2eedbc33bcf3d246d000240fc0ceb8e2bf7867af","author":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:41Z"},"committer":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:41Z"},"tree":{"sha":"c088bb6a4a3167ef591e51d4de3757bfe434f547","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/trees/c088bb6a4a3167ef591e51d4de3757bfe434f547"},"message":"WP2Static UPDATE page-d-exemple/index.html","parents":[{"sha":"27abb14105c45239db034406dd060fb6e89b4433","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/27abb14105c45239db034406dd060fb6e89b4433","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/27abb14105c45239db034406dd060fb6e89b4433"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/sitemap.xml to sitemap.xml in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/feed/index.html to feed/index.html in GitHub
+Skipping feed/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/index.html to index.html in GitHub
+Skipping index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/page-d-exemple/index.html to page-d-exemple/index.html in GitHub
+Skipping page-d-exemple/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/sitemap.xml to sitemap.xml in GitHub
 Skipping sitemap.xml as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wordpress/2021/06/13/bonjour-tout-le-monde/index.html to wordpress/2021/06/13/bonjour-tout-le-monde/index.html in GitHub
-API response code 200
-API response body {"data":{"repository":{"object":{"oid":"23a0f0e1488eb33aeb8c1fe318ecca0d48f76e16","byteSize":27382}}}}
-wordpress/2021/06/13/bonjour-tout-le-monde/index.html path exists in GitHub
-Updating wordpress/2021/06/13/bonjour-tout-le-monde/index.html in GitHub
-API response code 200
-API response body {"content":{"name":"index.html","path":"wordpress/2021/06/13/bonjour-tout-le-monde/index.html","sha":"c50a0221d41a403a8a3cc5efbcbeb8aba85235c3","size":26688,"url":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/wordpress/2021/06/13/bonjour-tout-le-monde/index.html?ref=gh-pages","html_url":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/wordpress/2021/06/13/bonjour-tout-le-monde/index.html","git_url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/c50a0221d41a403a8a3cc5efbcbeb8aba85235c3","download_url":"https://raw.githubusercontent.com/LiveHeroes/github_wordpress/gh-pages/wordpress/2021/06/13/bonjour-tout-le-monde/index.html","type":"file","_links":{"self":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/wordpress/2021/06/13/bonjour-tout-le-monde/index.html?ref=gh-pages","git":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/c50a0221d41a403a8a3cc5efbcbeb8aba85235c3","html":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/wordpress/2021/06/13/bonjour-tout-le-monde/index.html"}},"commit":{"sha":"beae985e04fb034347a1617870323da0e5cd8be2","node_id":"MDY6Q29tbWl0Mzc4MDc1ODk3OmJlYWU5ODVlMDRmYjAzNDM0N2ExNjE3ODcwMzIzZGEwZTVjZDhiZTI=","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/beae985e04fb034347a1617870323da0e5cd8be2","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/beae985e04fb034347a1617870323da0e5cd8be2","author":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:42Z"},"committer":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:42Z"},"tree":{"sha":"44fed5032c3f6bf1c00c4aa7ea4ee8cc505ffef6","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/trees/44fed5032c3f6bf1c00c4aa7ea4ee8cc505ffef6"},"message":"WP2Static UPDATE wordpress/2021/06/13/bonjour-tout-le-monde/index.html","parents":[{"sha":"2eedbc33bcf3d246d000240fc0ceb8e2bf7867af","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/2eedbc33bcf3d246d000240fc0ceb8e2bf7867af","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/2eedbc33bcf3d246d000240fc0ceb8e2bf7867af"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wordpress/page-d-exemple/index.html to wordpress/page-d-exemple/index.html in GitHub
-API response code 200
-API response body {"data":{"repository":{"object":{"oid":"dd6674502ffe4448d4f28b039056bae144576804","byteSize":18997}}}}
-wordpress/page-d-exemple/index.html path exists in GitHub
-Updating wordpress/page-d-exemple/index.html in GitHub
-API response code 200
-API response body {"content":{"name":"index.html","path":"wordpress/page-d-exemple/index.html","sha":"f626004debae1d4353df57c55caf0ca2b8978da0","size":18863,"url":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/wordpress/page-d-exemple/index.html?ref=gh-pages","html_url":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/wordpress/page-d-exemple/index.html","git_url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/f626004debae1d4353df57c55caf0ca2b8978da0","download_url":"https://raw.githubusercontent.com/LiveHeroes/github_wordpress/gh-pages/wordpress/page-d-exemple/index.html","type":"file","_links":{"self":"https://api.github.com/repos/LiveHeroes/github_wordpress/contents/wordpress/page-d-exemple/index.html?ref=gh-pages","git":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/blobs/f626004debae1d4353df57c55caf0ca2b8978da0","html":"https://github.com/LiveHeroes/github_wordpress/blob/gh-pages/wordpress/page-d-exemple/index.html"}},"commit":{"sha":"d8f2624a149124fd8006d5a1d46192a01f1727a3","node_id":"MDY6Q29tbWl0Mzc4MDc1ODk3OmQ4ZjI2MjRhMTQ5MTI0ZmQ4MDA2ZDVhMWQ0NjE5MmEwMWYxNzI3YTM=","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/d8f2624a149124fd8006d5a1d46192a01f1727a3","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/d8f2624a149124fd8006d5a1d46192a01f1727a3","author":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:43Z"},"committer":{"name":"LiveHeroes","email":"62511166+LiveHeroes@users.noreply.github.com","date":"2021-06-18T08:41:43Z"},"tree":{"sha":"28440a39d920e33bf9bd33cb0b11e82c52ab2ea7","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/trees/28440a39d920e33bf9bd33cb0b11e82c52ab2ea7"},"message":"WP2Static UPDATE wordpress/page-d-exemple/index.html","parents":[{"sha":"beae985e04fb034347a1617870323da0e5cd8be2","url":"https://api.github.com/repos/LiveHeroes/github_wordpress/git/commits/beae985e04fb034347a1617870323da0e5cd8be2","html_url":"https://github.com/LiveHeroes/github_wordpress/commit/beae985e04fb034347a1617870323da0e5cd8be2"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-admin/index.html to wp-admin/index.html in GitHub
-Skipping wp-admin/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css to wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wordpress/2021/06/13/bonjour-tout-le-monde/index.html to wordpress/2021/06/13/bonjour-tout-le-monde/index.html in GitHub
+Skipping wordpress/2021/06/13/bonjour-tout-le-monde/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wordpress/2021/06/13/index.html to wordpress/2021/06/13/index.html in GitHub
+Skipping wordpress/2021/06/13/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wordpress/2021/06/index.html to wordpress/2021/06/index.html in GitHub
+Skipping wordpress/2021/06/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wordpress/2021/index.html to wordpress/2021/index.html in GitHub
+Skipping wordpress/2021/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wordpress/index.html to wordpress/index.html in GitHub
+Skipping wordpress/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wordpress/page-d-exemple/index.html to wordpress/page-d-exemple/index.html in GitHub
+Skipping wordpress/page-d-exemple/index.html as identical to deploy cache
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css to wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css in GitHub
 Skipping wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/css/editor-style-block.css to wp-content/themes/twentytwenty/assets/css/editor-style-block.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/css/editor-style-block.css to wp-content/themes/twentytwenty/assets/css/editor-style-block.css in GitHub
 Skipping wp-content/themes/twentytwenty/assets/css/editor-style-block.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css to wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css to wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css in GitHub
 Skipping wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/css/editor-style-classic.css to wp-content/themes/twentytwenty/assets/css/editor-style-classic.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/css/editor-style-classic.css to wp-content/themes/twentytwenty/assets/css/editor-style-classic.css in GitHub
 Skipping wp-content/themes/twentytwenty/assets/css/editor-style-classic.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 to wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 to wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 in GitHub
 Skipping wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 to wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 to wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 in GitHub
 Skipping wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png to wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png to wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png in GitHub
 Skipping wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png to wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png to wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png in GitHub
 Skipping wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/images/2020-square-1.png to wp-content/themes/twentytwenty/assets/images/2020-square-1.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/images/2020-square-1.png to wp-content/themes/twentytwenty/assets/images/2020-square-1.png in GitHub
 Skipping wp-content/themes/twentytwenty/assets/images/2020-square-1.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/images/2020-square-2.png to wp-content/themes/twentytwenty/assets/images/2020-square-2.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/images/2020-square-2.png to wp-content/themes/twentytwenty/assets/images/2020-square-2.png in GitHub
 Skipping wp-content/themes/twentytwenty/assets/images/2020-square-2.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png in GitHub
 Skipping wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png in GitHub
 Skipping wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png in GitHub
 Skipping wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png in GitHub
 Skipping wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/js/color-calculations.js to wp-content/themes/twentytwenty/assets/js/color-calculations.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/js/color-calculations.js to wp-content/themes/twentytwenty/assets/js/color-calculations.js in GitHub
 Skipping wp-content/themes/twentytwenty/assets/js/color-calculations.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/js/customize-controls.js to wp-content/themes/twentytwenty/assets/js/customize-controls.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/js/customize-controls.js to wp-content/themes/twentytwenty/assets/js/customize-controls.js in GitHub
 Skipping wp-content/themes/twentytwenty/assets/js/customize-controls.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/js/customize-preview.js to wp-content/themes/twentytwenty/assets/js/customize-preview.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/js/customize-preview.js to wp-content/themes/twentytwenty/assets/js/customize-preview.js in GitHub
 Skipping wp-content/themes/twentytwenty/assets/js/customize-preview.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/js/customize.js to wp-content/themes/twentytwenty/assets/js/customize.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/js/customize.js to wp-content/themes/twentytwenty/assets/js/customize.js in GitHub
 Skipping wp-content/themes/twentytwenty/assets/js/customize.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/js/editor-script-block.js to wp-content/themes/twentytwenty/assets/js/editor-script-block.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/js/editor-script-block.js to wp-content/themes/twentytwenty/assets/js/editor-script-block.js in GitHub
 Skipping wp-content/themes/twentytwenty/assets/js/editor-script-block.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/js/index.js to wp-content/themes/twentytwenty/assets/js/index.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/js/index.js to wp-content/themes/twentytwenty/assets/js/index.js in GitHub
 Skipping wp-content/themes/twentytwenty/assets/js/index.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js to wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js to wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js in GitHub
 Skipping wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/package-lock.json to wp-content/themes/twentytwenty/package-lock.json in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/package-lock.json to wp-content/themes/twentytwenty/package-lock.json in GitHub
 Skipping wp-content/themes/twentytwenty/package-lock.json as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/print.css to wp-content/themes/twentytwenty/print.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/print.css to wp-content/themes/twentytwenty/print.css in GitHub
 Skipping wp-content/themes/twentytwenty/print.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/screenshot.png to wp-content/themes/twentytwenty/screenshot.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/screenshot.png to wp-content/themes/twentytwenty/screenshot.png in GitHub
 Skipping wp-content/themes/twentytwenty/screenshot.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/style-rtl.css to wp-content/themes/twentytwenty/style-rtl.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/style-rtl.css to wp-content/themes/twentytwenty/style-rtl.css in GitHub
 Skipping wp-content/themes/twentytwenty/style-rtl.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/themes/twentytwenty/style.css to wp-content/themes/twentytwenty/style.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/themes/twentytwenty/style.css to wp-content/themes/twentytwenty/style.css in GitHub
 Skipping wp-content/themes/twentytwenty/style.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/2020-landscape-1-1024x656.png to wp-content/uploads/2021/05/2020-landscape-1-1024x656.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/2020-landscape-1-1024x656.png to wp-content/uploads/2021/05/2020-landscape-1-1024x656.png in GitHub
 Skipping wp-content/uploads/2021/05/2020-landscape-1-1024x656.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/2020-landscape-1-150x150.png to wp-content/uploads/2021/05/2020-landscape-1-150x150.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/2020-landscape-1-150x150.png to wp-content/uploads/2021/05/2020-landscape-1-150x150.png in GitHub
 Skipping wp-content/uploads/2021/05/2020-landscape-1-150x150.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/2020-landscape-1-300x192.png to wp-content/uploads/2021/05/2020-landscape-1-300x192.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/2020-landscape-1-300x192.png to wp-content/uploads/2021/05/2020-landscape-1-300x192.png in GitHub
 Skipping wp-content/uploads/2021/05/2020-landscape-1-300x192.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/2020-landscape-1-768x492.png to wp-content/uploads/2021/05/2020-landscape-1-768x492.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/2020-landscape-1-768x492.png to wp-content/uploads/2021/05/2020-landscape-1-768x492.png in GitHub
 Skipping wp-content/uploads/2021/05/2020-landscape-1-768x492.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/2020-landscape-1.png to wp-content/uploads/2021/05/2020-landscape-1.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/2020-landscape-1.png to wp-content/uploads/2021/05/2020-landscape-1.png in GitHub
 Skipping wp-content/uploads/2021/05/2020-landscape-1.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/accueil-1024x252.jpg to wp-content/uploads/2021/05/accueil-1024x252.jpg in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/accueil-1024x252.jpg to wp-content/uploads/2021/05/accueil-1024x252.jpg in GitHub
 Skipping wp-content/uploads/2021/05/accueil-1024x252.jpg as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/accueil-150x150.jpg to wp-content/uploads/2021/05/accueil-150x150.jpg in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/accueil-150x150.jpg to wp-content/uploads/2021/05/accueil-150x150.jpg in GitHub
 Skipping wp-content/uploads/2021/05/accueil-150x150.jpg as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/accueil-300x74.jpg to wp-content/uploads/2021/05/accueil-300x74.jpg in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/accueil-300x74.jpg to wp-content/uploads/2021/05/accueil-300x74.jpg in GitHub
 Skipping wp-content/uploads/2021/05/accueil-300x74.jpg as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/accueil-768x189.jpg to wp-content/uploads/2021/05/accueil-768x189.jpg in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/accueil-768x189.jpg to wp-content/uploads/2021/05/accueil-768x189.jpg in GitHub
 Skipping wp-content/uploads/2021/05/accueil-768x189.jpg as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/accueil.jpg to wp-content/uploads/2021/05/accueil.jpg in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/accueil.jpg to wp-content/uploads/2021/05/accueil.jpg in GitHub
 Skipping wp-content/uploads/2021/05/accueil.jpg as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/cropped-logo-150x144.png to wp-content/uploads/2021/05/cropped-logo-150x144.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/cropped-logo-150x144.png to wp-content/uploads/2021/05/cropped-logo-150x144.png in GitHub
 Skipping wp-content/uploads/2021/05/cropped-logo-150x144.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/cropped-logo.png to wp-content/uploads/2021/05/cropped-logo.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/cropped-logo.png to wp-content/uploads/2021/05/cropped-logo.png in GitHub
 Skipping wp-content/uploads/2021/05/cropped-logo.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/logo-150x144.png to wp-content/uploads/2021/05/logo-150x144.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/logo-150x144.png to wp-content/uploads/2021/05/logo-150x144.png in GitHub
 Skipping wp-content/uploads/2021/05/logo-150x144.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/2021/05/logo.png to wp-content/uploads/2021/05/logo.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/2021/05/logo.png to wp-content/uploads/2021/05/logo.png in GitHub
 Skipping wp-content/uploads/2021/05/logo.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/2021/06/13/bonjour-tout-le-monde/feed/index.html to wp-content/uploads/static-html-output/2021/06/13/bonjour-tout-le-monde/feed/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/2021/06/13/bonjour-tout-le-monde/feed/index.html to wp-content/uploads/static-html-output/2021/06/13/bonjour-tout-le-monde/feed/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/2021/06/13/bonjour-tout-le-monde/feed/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/2021/06/13/bonjour-tout-le-monde/index.html to wp-content/uploads/static-html-output/2021/06/13/bonjour-tout-le-monde/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/2021/06/13/bonjour-tout-le-monde/index.html to wp-content/uploads/static-html-output/2021/06/13/bonjour-tout-le-monde/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/2021/06/13/bonjour-tout-le-monde/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/2021/06/18/nouveau-post/feed/index.html to wp-content/uploads/static-html-output/2021/06/18/nouveau-post/feed/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/2021/06/18/nouveau-post/feed/index.html to wp-content/uploads/static-html-output/2021/06/18/nouveau-post/feed/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/2021/06/18/nouveau-post/feed/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/2021/06/18/nouveau-post/index.html to wp-content/uploads/static-html-output/2021/06/18/nouveau-post/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/2021/06/18/nouveau-post/index.html to wp-content/uploads/static-html-output/2021/06/18/nouveau-post/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/2021/06/18/nouveau-post/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/2021/06/index.html to wp-content/uploads/static-html-output/2021/06/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/2021/06/index.html to wp-content/uploads/static-html-output/2021/06/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/2021/06/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/author/admin/feed/index.html to wp-content/uploads/static-html-output/author/admin/feed/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/author/admin/feed/index.html to wp-content/uploads/static-html-output/author/admin/feed/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/author/admin/feed/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/author/admin/index.html to wp-content/uploads/static-html-output/author/admin/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/author/admin/index.html to wp-content/uploads/static-html-output/author/admin/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/author/admin/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/category/non-classe/feed/index.html to wp-content/uploads/static-html-output/category/non-classe/feed/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/category/non-classe/feed/index.html to wp-content/uploads/static-html-output/category/non-classe/feed/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/category/non-classe/feed/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/category/non-classe/index.html to wp-content/uploads/static-html-output/category/non-classe/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/category/non-classe/index.html to wp-content/uploads/static-html-output/category/non-classe/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/category/non-classe/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/comments/feed/index.html to wp-content/uploads/static-html-output/comments/feed/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/comments/feed/index.html to wp-content/uploads/static-html-output/comments/feed/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/comments/feed/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/feed/index.html to wp-content/uploads/static-html-output/feed/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/feed/index.html to wp-content/uploads/static-html-output/feed/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/feed/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/index.html to wp-content/uploads/static-html-output/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/index.html to wp-content/uploads/static-html-output/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/page-d-exemple/feed/index.html to wp-content/uploads/static-html-output/page-d-exemple/feed/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/page-d-exemple/feed/index.html to wp-content/uploads/static-html-output/page-d-exemple/feed/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/page-d-exemple/feed/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/page-d-exemple/index.html to wp-content/uploads/static-html-output/page-d-exemple/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/page-d-exemple/index.html to wp-content/uploads/static-html-output/page-d-exemple/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/page-d-exemple/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/sitemap.xml to wp-content/uploads/static-html-output/sitemap.xml in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/sitemap.xml to wp-content/uploads/static-html-output/sitemap.xml in GitHub
 Skipping wp-content/uploads/static-html-output/sitemap.xml as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wordpress/2021/06/13/bonjour-tout-le-monde/index.html to wp-content/uploads/static-html-output/wordpress/2021/06/13/bonjour-tout-le-monde/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wordpress/2021/06/13/bonjour-tout-le-monde/index.html to wp-content/uploads/static-html-output/wordpress/2021/06/13/bonjour-tout-le-monde/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/wordpress/2021/06/13/bonjour-tout-le-monde/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wordpress/2021/06/18/nouveau-post/index.html to wp-content/uploads/static-html-output/wordpress/2021/06/18/nouveau-post/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wordpress/2021/06/18/nouveau-post/index.html to wp-content/uploads/static-html-output/wordpress/2021/06/18/nouveau-post/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/wordpress/2021/06/18/nouveau-post/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wordpress/page-d-exemple/index.html to wp-content/uploads/static-html-output/wordpress/page-d-exemple/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wordpress/page-d-exemple/index.html to wp-content/uploads/static-html-output/wordpress/page-d-exemple/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/wordpress/page-d-exemple/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-admin/css/forms.min.css to wp-content/uploads/static-html-output/wp-admin/css/forms.min.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-admin/css/forms.min.css to wp-content/uploads/static-html-output/wp-admin/css/forms.min.css in GitHub
 Skipping wp-content/uploads/static-html-output/wp-admin/css/forms.min.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-admin/css/l10n.min.css to wp-content/uploads/static-html-output/wp-admin/css/l10n.min.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-admin/css/l10n.min.css to wp-content/uploads/static-html-output/wp-admin/css/l10n.min.css in GitHub
 Skipping wp-content/uploads/static-html-output/wp-admin/css/l10n.min.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-admin/css/login.min.css to wp-content/uploads/static-html-output/wp-admin/css/login.min.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-admin/css/login.min.css to wp-content/uploads/static-html-output/wp-admin/css/login.min.css in GitHub
 Skipping wp-content/uploads/static-html-output/wp-admin/css/login.min.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-admin/images/loading.gif to wp-content/uploads/static-html-output/wp-admin/images/loading.gif in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-admin/images/loading.gif to wp-content/uploads/static-html-output/wp-admin/images/loading.gif in GitHub
 Skipping wp-content/uploads/static-html-output/wp-admin/images/loading.gif as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-admin/images/w-logo-blue.png to wp-content/uploads/static-html-output/wp-admin/images/w-logo-blue.png in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-admin/images/w-logo-blue.png to wp-content/uploads/static-html-output/wp-admin/images/w-logo-blue.png in GitHub
 Skipping wp-content/uploads/static-html-output/wp-admin/images/w-logo-blue.png as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-admin/images/wordpress-logo.svg to wp-content/uploads/static-html-output/wp-admin/images/wordpress-logo.svg in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-admin/images/wordpress-logo.svg to wp-content/uploads/static-html-output/wp-admin/images/wordpress-logo.svg in GitHub
 Skipping wp-content/uploads/static-html-output/wp-admin/images/wordpress-logo.svg as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-admin/index.html to wp-content/uploads/static-html-output/wp-admin/index.html in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-admin/index.html to wp-content/uploads/static-html-output/wp-admin/index.html in GitHub
 Skipping wp-content/uploads/static-html-output/wp-admin/index.html as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-admin/js/password-strength-meter.min.js to wp-content/uploads/static-html-output/wp-admin/js/password-strength-meter.min.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-admin/js/password-strength-meter.min.js to wp-content/uploads/static-html-output/wp-admin/js/password-strength-meter.min.js in GitHub
 Skipping wp-content/uploads/static-html-output/wp-admin/js/password-strength-meter.min.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-admin/js/user-profile.min.js to wp-content/uploads/static-html-output/wp-admin/js/user-profile.min.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-admin/js/user-profile.min.js to wp-content/uploads/static-html-output/wp-admin/js/user-profile.min.js in GitHub
 Skipping wp-content/uploads/static-html-output/wp-admin/js/user-profile.min.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 to wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 to wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 in GitHub
 Skipping wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 to wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 to wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 in GitHub
 Skipping wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/js/index.js to wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/js/index.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/js/index.js to wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/js/index.js in GitHub
 Skipping wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/assets/js/index.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/print.css to wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/print.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/print.css to wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/print.css in GitHub
 Skipping wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/print.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/style.css to wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/style.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/style.css to wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/style.css in GitHub
 Skipping wp-content/uploads/static-html-output/wp-content/themes/twentytwenty/style.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-includes/css/buttons.min.css to wp-content/uploads/static-html-output/wp-includes/css/buttons.min.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-includes/css/buttons.min.css to wp-content/uploads/static-html-output/wp-includes/css/buttons.min.css in GitHub
 Skipping wp-content/uploads/static-html-output/wp-includes/css/buttons.min.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-includes/css/dashicons.min.css to wp-content/uploads/static-html-output/wp-includes/css/dashicons.min.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-includes/css/dashicons.min.css to wp-content/uploads/static-html-output/wp-includes/css/dashicons.min.css in GitHub
 Skipping wp-content/uploads/static-html-output/wp-includes/css/dashicons.min.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-includes/css/dist/block-library/style.min.css to wp-content/uploads/static-html-output/wp-includes/css/dist/block-library/style.min.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-includes/css/dist/block-library/style.min.css to wp-content/uploads/static-html-output/wp-includes/css/dist/block-library/style.min.css in GitHub
 Skipping wp-content/uploads/static-html-output/wp-includes/css/dist/block-library/style.min.css as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-includes/fonts/dashicons.eot to wp-content/uploads/static-html-output/wp-includes/fonts/dashicons.eot in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-includes/fonts/dashicons.eot to wp-content/uploads/static-html-output/wp-includes/fonts/dashicons.eot in GitHub
 Skipping wp-content/uploads/static-html-output/wp-includes/fonts/dashicons.eot as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-includes/fonts/dashicons.ttf to wp-content/uploads/static-html-output/wp-includes/fonts/dashicons.ttf in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-includes/fonts/dashicons.ttf to wp-content/uploads/static-html-output/wp-includes/fonts/dashicons.ttf in GitHub
 Skipping wp-content/uploads/static-html-output/wp-includes/fonts/dashicons.ttf as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-includes/js/dist/hooks.min.js to wp-content/uploads/static-html-output/wp-includes/js/dist/hooks.min.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-includes/js/dist/hooks.min.js to wp-content/uploads/static-html-output/wp-includes/js/dist/hooks.min.js in GitHub
 Skipping wp-content/uploads/static-html-output/wp-includes/js/dist/hooks.min.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-includes/js/dist/i18n.min.js to wp-content/uploads/static-html-output/wp-includes/js/dist/i18n.min.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-includes/js/dist/i18n.min.js to wp-content/uploads/static-html-output/wp-includes/js/dist/i18n.min.js in GitHub
 Skipping wp-content/uploads/static-html-output/wp-includes/js/dist/i18n.min.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-includes/js/jquery/jquery-migrate.min.js to wp-content/uploads/static-html-output/wp-includes/js/jquery/jquery-migrate.min.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-includes/js/jquery/jquery-migrate.min.js to wp-content/uploads/static-html-output/wp-includes/js/jquery/jquery-migrate.min.js in GitHub
 Skipping wp-content/uploads/static-html-output/wp-includes/js/jquery/jquery-migrate.min.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-includes/js/jquery/jquery.min.js to wp-content/uploads/static-html-output/wp-includes/js/jquery/jquery.min.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-includes/js/jquery/jquery.min.js to wp-content/uploads/static-html-output/wp-includes/js/jquery/jquery.min.js in GitHub
 Skipping wp-content/uploads/static-html-output/wp-includes/js/jquery/jquery.min.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-includes/js/underscore.min.js to wp-content/uploads/static-html-output/wp-includes/js/underscore.min.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-includes/js/underscore.min.js to wp-content/uploads/static-html-output/wp-includes/js/underscore.min.js in GitHub
 Skipping wp-content/uploads/static-html-output/wp-includes/js/underscore.min.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-includes/js/wp-util.min.js to wp-content/uploads/static-html-output/wp-includes/js/wp-util.min.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-includes/js/wp-util.min.js to wp-content/uploads/static-html-output/wp-includes/js/wp-util.min.js in GitHub
 Skipping wp-content/uploads/static-html-output/wp-includes/js/wp-util.min.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-content/uploads/static-html-output/wp-includes/js/zxcvbn-async.min.js to wp-content/uploads/static-html-output/wp-includes/js/zxcvbn-async.min.js in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-content/uploads/static-html-output/wp-includes/js/zxcvbn-async.min.js to wp-content/uploads/static-html-output/wp-includes/js/zxcvbn-async.min.js in GitHub
 Skipping wp-content/uploads/static-html-output/wp-includes/js/zxcvbn-async.min.js as identical to deploy cache
-Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624005659/wp-includes/css/dist/block-library/style.min.css to wp-includes/css/dist/block-library/style.min.css in GitHub
+Uploading C:/wamp64/www/wordpress/wp-content/uploads/wp-static-html-output-1624009856/wp-includes/css/dist/block-library/style.min.css to wp-includes/css/dist/block-library/style.min.css in GitHub
 Skipping wp-includes/css/dist/block-library/style.min.css as identical to deploy cache
